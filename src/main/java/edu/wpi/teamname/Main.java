@@ -11,5 +11,6 @@ public class Main {
     System.out.println("Yanbo Dai"); // print name
     
     App.launch(App.class, args);
+    System.out.println("Sitsanok Young");
   }
 }
